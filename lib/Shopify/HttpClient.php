@@ -13,10 +13,7 @@ interface HttpClient
     const PUT = 'put';
     
     const DELETE = 'delete';
-
     const DEMO2 = '';
-    
-    const DEMO4 = '';
     /**
      * set the Shopify permanent access token
      *
