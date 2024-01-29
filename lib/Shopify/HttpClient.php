@@ -5,8 +5,11 @@ namespace Shopify;
 interface HttpClient
 {
     const POST = 'post';
+
     const GET = 'get';
+    
     const PUT = 'put';
+    
     const DELETE = 'delete';
 
     /**
