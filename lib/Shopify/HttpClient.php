@@ -4,6 +4,8 @@ namespace Shopify;
 
 interface HttpClient
 {
+    const DEMO = "";
+    
     const POST = 'post';
 
     const GET = 'get';
